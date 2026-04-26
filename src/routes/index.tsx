@@ -32,7 +32,7 @@ function GroceryShop() {
         <div className="shop-header__inner">
           <div className="shop-logo">
             <Leaf size={24} />
-            <span className="shop-logo__text">FreshBasket</span>
+            <span className="shop-logo__text">Uniq Items</span>
           </div>
 
           <div className="shop-search">
