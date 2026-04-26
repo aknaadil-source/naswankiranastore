@@ -32,7 +32,7 @@ function GroceryShop() {
         <div className="shop-header__inner">
           <div className="shop-logo">
             <Leaf size={24} />
-            <span className="shop-logo__text">Uniq Items</span>
+            <span className="shop-logo__text">FreshBasket</span>
           </div>
 
           <div className="shop-search">
@@ -67,7 +67,7 @@ function GroceryShop() {
             <em>straight from the source.</em>
           </h1>
           <p className="shop-hero__sub">
-            Add items to your basket, then send your order directly via WhatsApp.
+            Add items in cart to send your list on whatsapp
           </p>
         </div>
         <div className="shop-hero__blob shop-hero__blob--1" />
